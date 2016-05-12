@@ -1,0 +1,29 @@
+Q-1
+b.1
+
+Q-2.
+b. client
+
+Q-3
+b. secondary namenode
+
+Q-4
+b. yet Another resource negotiator
+
+Q-5
+b. 10secs
+
+Q-6
+a. Name node and Resource Manager
+
+Q-7
+b. AppId
+
+Q-8
+a. NodeManager
+
+Q-9
+a. NameNode
+
+Q-10
+a. fsimage
